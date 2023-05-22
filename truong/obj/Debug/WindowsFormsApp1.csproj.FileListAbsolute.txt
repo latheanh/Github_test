@@ -1,0 +1,17 @@
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMChatlieu.resources
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmDMNhanvien.resources
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\bin\Debug\QuanLyBanHang.exe
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\bin\Debug\QuanLyBanHang.pdb
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\QuanLyBanHang.exe
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\QuanLyBanHang.pdb
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\QuanLyBanHang.FrmDMKhachhang.resources
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\QuanLyBanHang.frmDMHanghoa.resources
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\QuanLyBanHang.frmTimKiemHD.resources
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\QuanLyBanHang.frmHoaDonBan.resources
+C:\Users\TGDD\source\repos\QuanLyBanHang\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
